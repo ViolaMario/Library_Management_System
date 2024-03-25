@@ -1,0 +1,1 @@
+E:\.BME\semester4\Applied Computer Systems Laboratory 2\Lab3&4_H8B414\DevSA2022-main\Library Manager\Library Manager.csproj;x64

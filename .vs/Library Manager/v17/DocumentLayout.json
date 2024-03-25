@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.BME\\semester4\\Applied Computer Systems Laboratory 2\\Lab3\u00264_H8B414\\DevSA2022-main\\Library Manager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58786342-4881-4A9E-AB9E-9CB77991A310}|Library Manager.csproj|e:\\.bme\\semester4\\applied computer systems laboratory 2\\lab3\u00264_h8b414\\devsa2022-main\\library manager\\loadingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58786342-4881-4A9E-AB9E-9CB77991A310}|Library Manager.csproj|solutionrelative:loadingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58786342-4881-4A9E-AB9E-9CB77991A310}|Library Manager.csproj|e:\\.bme\\semester4\\applied computer systems laboratory 2\\lab3\u00264_h8b414\\devsa2022-main\\library manager\\bll\\bookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58786342-4881-4A9E-AB9E-9CB77991A310}|Library Manager.csproj|solutionrelative:bll\\bookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58786342-4881-4A9E-AB9E-9CB77991A310}|Library Manager.csproj|E:\\.BME\\semester4\\Applied Computer Systems Laboratory 2\\Lab3\u00264_H8B414\\DevSA2022-main\\Library Manager\\bll\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58786342-4881-4A9E-AB9E-9CB77991A310}|Library Manager.csproj|solutionrelative:bll\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58786342-4881-4A9E-AB9E-9CB77991A310}|Library Manager.csproj|E:\\.BME\\semester4\\Applied Computer Systems Laboratory 2\\Lab3\u00264_H8B414\\DevSA2022-main\\Library Manager\\bll\\dvdstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58786342-4881-4A9E-AB9E-9CB77991A310}|Library Manager.csproj|solutionrelative:bll\\dvdstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58786342-4881-4A9E-AB9E-9CB77991A310}|Library Manager.csproj|E:\\.BME\\semester4\\Applied Computer Systems Laboratory 2\\Lab3\u00264_H8B414\\DevSA2022-main\\Library Manager\\bll\\itemsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58786342-4881-4A9E-AB9E-9CB77991A310}|Library Manager.csproj|solutionrelative:bll\\itemsearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58786342-4881-4A9E-AB9E-9CB77991A310}|Library Manager.csproj|E:\\.BME\\semester4\\Applied Computer Systems Laboratory 2\\Lab3\u00264_H8B414\\DevSA2022-main\\Library Manager\\bll\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58786342-4881-4A9E-AB9E-9CB77991A310}|Library Manager.csproj|solutionrelative:bll\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58786342-4881-4A9E-AB9E-9CB77991A310}|Library Manager.csproj|E:\\.BME\\semester4\\Applied Computer Systems Laboratory 2\\Lab3\u00264_H8B414\\DevSA2022-main\\Library Manager\\bll\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58786342-4881-4A9E-AB9E-9CB77991A310}|Library Manager.csproj|solutionrelative:bll\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoadingPage.xaml.cs",
+              "DocumentMoniker": "E:\\.BME\\semester4\\Applied Computer Systems Laboratory 2\\Lab3\u00264_H8B414\\DevSA2022-main\\Library Manager\\LoadingPage.xaml.cs",
+              "RelativeDocumentMoniker": "LoadingPage.xaml.cs",
+              "ToolTip": "E:\\.BME\\semester4\\Applied Computer Systems Laboratory 2\\Lab3\u00264_H8B414\\DevSA2022-main\\Library Manager\\LoadingPage.xaml.cs",
+              "RelativeToolTip": "LoadingPage.xaml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwCMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T14:22:18.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookStore.cs",
+              "DocumentMoniker": "E:\\.BME\\semester4\\Applied Computer Systems Laboratory 2\\Lab3\u00264_H8B414\\DevSA2022-main\\Library Manager\\BLL\\BookStore.cs",
+              "RelativeDocumentMoniker": "BLL\\BookStore.cs",
+              "ToolTip": "E:\\.BME\\semester4\\Applied Computer Systems Laboratory 2\\Lab3\u00264_H8B414\\DevSA2022-main\\Library Manager\\BLL\\BookStore.cs",
+              "RelativeToolTip": "BLL\\BookStore.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwCwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T14:05:30.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\.BME\\semester4\\Applied Computer Systems Laboratory 2\\Lab3\u00264_H8B414\\DevSA2022-main\\Library Manager\\BLL\\Book.cs",
+              "RelativeDocumentMoniker": "BLL\\Book.cs",
+              "ToolTip": "E:\\.BME\\semester4\\Applied Computer Systems Laboratory 2\\Lab3\u00264_H8B414\\DevSA2022-main\\Library Manager\\BLL\\Book.cs",
+              "RelativeToolTip": "BLL\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T14:05:30.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DVD.cs",
+              "DocumentMoniker": "E:\\.BME\\semester4\\Applied Computer Systems Laboratory 2\\Lab3\u00264_H8B414\\DevSA2022-main\\Library Manager\\BLL\\DVD.cs",
+              "RelativeDocumentMoniker": "BLL\\DVD.cs",
+              "ToolTip": "E:\\.BME\\semester4\\Applied Computer Systems Laboratory 2\\Lab3\u00264_H8B414\\DevSA2022-main\\Library Manager\\BLL\\DVD.cs",
+              "RelativeToolTip": "BLL\\DVD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T14:01:02.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemSearch.cs",
+              "DocumentMoniker": "E:\\.BME\\semester4\\Applied Computer Systems Laboratory 2\\Lab3\u00264_H8B414\\DevSA2022-main\\Library Manager\\BLL\\ItemSearch.cs",
+              "RelativeDocumentMoniker": "BLL\\ItemSearch.cs",
+              "ToolTip": "E:\\.BME\\semester4\\Applied Computer Systems Laboratory 2\\Lab3\u00264_H8B414\\DevSA2022-main\\Library Manager\\BLL\\ItemSearch.cs",
+              "RelativeToolTip": "BLL\\ItemSearch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:58:47.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DVDStore.cs",
+              "DocumentMoniker": "E:\\.BME\\semester4\\Applied Computer Systems Laboratory 2\\Lab3\u00264_H8B414\\DevSA2022-main\\Library Manager\\BLL\\DVDStore.cs",
+              "RelativeDocumentMoniker": "BLL\\DVDStore.cs",
+              "ToolTip": "E:\\.BME\\semester4\\Applied Computer Systems Laboratory 2\\Lab3\u00264_H8B414\\DevSA2022-main\\Library Manager\\BLL\\DVDStore.cs",
+              "RelativeToolTip": "BLL\\DVDStore.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwB0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T22:55:17.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "E:\\.BME\\semester4\\Applied Computer Systems Laboratory 2\\Lab3\u00264_H8B414\\DevSA2022-main\\Library Manager\\BLL\\Person.cs",
+              "RelativeDocumentMoniker": "BLL\\Person.cs",
+              "ToolTip": "E:\\.BME\\semester4\\Applied Computer Systems Laboratory 2\\Lab3\u00264_H8B414\\DevSA2022-main\\Library Manager\\BLL\\Person.cs",
+              "RelativeToolTip": "BLL\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T20:13:33.729Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
